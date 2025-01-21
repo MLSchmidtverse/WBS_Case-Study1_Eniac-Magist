@@ -32,7 +32,7 @@ This project aims to provide actionable insights and recommendations to Eniac's 
 ## Project Structure
 The repository is organized as follows:
 - `README.md`: This file - project overview and instructions
-- `data/`: dataset files
+- `data/`: dataset schema
 - `sql/`: SQL scripts
 - `tableau/`: Tableau workbooks and visualizations
 - `presentation/`: presentation as PDF
