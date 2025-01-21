@@ -31,11 +31,11 @@ This project aims to provide actionable insights and recommendations to Eniac's 
 
 ## Project Structure
 The repository is organized as follows:
-- `README.md`: This file, containing project overview and instructions.
-- `data/`: Directory containing the dataset files.
-- `sql/`: Directory containing SQL scripts for data analysis.
-- `tableau/`: Directory containing Tableau workbooks and visualizations.
-- `presentation/`: Directory with the presentation as PDF.
+- `README.md`: This file - project overview and instructions
+- `data/`: dataset files
+- `sql/`: SQL scripts
+- `tableau/`: Tableau workbooks and visualizations
+- `presentation/`: presentation as PDF
 
 ## Key Learnings & Reflections
 This project provided invaluable experience of the data analysis lifecycle, from data cleaning to advanced SQL queries, Tableau visualisation and insightful interpretation. I honed my analytical and problem-solving skills while overcoming challenges such as handling large datasets and ensuring data accuracy. This project not only strengthened my technical expertise, but also enhanced my ability to effectively communicate complex data findings to non-technical audiences, reinforcing the critical role of data-driven decision making in business scenarios.
